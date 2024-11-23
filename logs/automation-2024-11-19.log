@@ -1,0 +1,56 @@
+14:43:18:533 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:43:18:548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:43:18:549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:43:18:549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:43:18:572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--2047566701\testng-customsuite.xml
+
+14:43:18:620 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+14:43:22:079 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5560bcdf: 215 ms
+14:43:22:111 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@12a160c2: 31 ms
+14:43:22:149 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@34523d46: 35 ms
+14:43:22:175 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1bcb79c2: 26 ms
+14:43:22:200 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4078695f: 25 ms
+14:43:22:200 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@79a1728c: 0 ms
+14:44:07:233 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumWebDriver\OpencartProject\master.xml
+
+14:44:24:241 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting test case: TC001_AccountRegistrationTest ****
+14:44:24:675 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicking 'My Account' link ****
+14:44:28:786 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicking 'Register' link ****
+14:44:28:792 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entering User Details ****
+14:44:31:183 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Submitting user details ****
+14:44:31:269 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Confirming successful registration ****
+14:44:31:278 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Determining if test Passed/Failed ****
+14:44:31:279 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished test case: TC001_AccountRegistrationTest ****
+14:53:30:690 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumWebDriver\OpencartProject\master.xml
+
+14:56:38:347 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumWebDriver\OpencartProject\master.xml
+
+15:04:57:124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumWebDriver\OpencartProject\master.xml
+
+16:25:39:668 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumWebDriver\OpencartProject\grouping.xml
+
+16:25:50:189 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting test case: TC001_AccountRegistrationTest ****
+16:25:50:505 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicking 'My Account' link ****
+16:25:51:489 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicking 'Register' link ****
+16:25:51:500 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entering User Details ****
+16:25:53:116 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Submitting user details ****
+16:25:53:150 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Confirming successful registration ****
+16:25:53:153 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Determining if test Passed/Failed ****
+16:25:53:155 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished test case: TC001_AccountRegistrationTest ****
+16:26:01:362 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account (Login) Page ***
+16:38:56:514 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Workspace\SeleniumWebDriver\OpencartProject\grouping.xml
+
+16:39:07:120 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting test case: TC001_AccountRegistrationTest ****
+16:39:07:425 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicking 'My Account' link ****
+16:39:08:752 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicking 'Register' link ****
+16:39:08:756 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Entering User Details ****
+16:39:10:349 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Submitting user details ****
+16:39:10:371 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Confirming successful registration ****
+16:39:10:373 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Determining if test Passed/Failed ****
